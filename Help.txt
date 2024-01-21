@@ -1,0 +1,59 @@
+-------------
+- FORMULAIC -
+-------------
+
+--------------------------
+Using Formulaic
+--------------------------
+
+	You can use Formulaic to perform simple calculations such as addition, subtraction, multiplication and division. Formulaic also offers the advanced capabilities of differentiation and even graphing of expressions.
+
+	You can perform calculations by clicking the calculator buttons, or you can type some calculations by using your keyboard. You can also use the numeric keypad to type numbers and operators by pressing Num Lock.
+
+   		1. Click the "Button Pad" button to display calculator keys.
+   		2. Click the "Graph Screen" button to display the graph window.
+   		3. Click the calculator keys to perform the calculation you desire.
+
+--------------------------
+Using Calculation History
+--------------------------
+
+	Calculation history keeps track of all of the calculations that Formulaic perfroms in a session and is available at all times. You cannot change the values in the calculations in your history. But you can copy the calculations to a text screen or file.
+
+    	Click the View menu in the menu bar, and then click History.
+
+--------------------------
+Assigning Formulae
+--------------------------
+
+	You can use the letters 'a-z' in both their upper and lower case forms to assign and associate a particular expression with a letter for future use in Formulaic. Simply type your desired letter using the keyboard, folllowed by the expression with which you wish to assign it in the text screen of Formulaic. e.g. f:=(x + y ^ 2).
+
+--------------------------
+Saving Formulae
+--------------------------
+
+	You can save formulae in Formulaic by typing the keyword "save" using the keyboard. This will bring up a window where you can specify where and by what name to save the previously assigned formula. They will be saved in a text file.
+
+--------------------------
+Loading Formulae
+--------------------------
+
+	You can load formulae in Formulaic by typing the keyword "load" using the keyboard. This will open a window from which you can choose the text file containing your previously saved formula.
+
+--------------------------
+Graphing Formulae
+--------------------------
+
+	You can graph formulae in Formulaic in both their simple and differentiated forms by writing the name of the function and then writing the start limit, end limit and step in brackects. e.g. f(x = 0, 100) or g(x = 2, 100, 5 y = 4) or f'(x = 0, 100, 1) or f''(x = 0, 100, 1)
+
+--------------------------
+Saving Graphed Formulae
+--------------------------
+
+	Formulaic does not provide the save graph functionality.
+
+--------------------------
+Loading Graphed Formulae
+--------------------------
+
+	You can load graphed formulae, that were previously saved, in Formulaic by using the keywords "load graph". This will open a window that will allow you to choose any saved graphs. These files must be in png format.
