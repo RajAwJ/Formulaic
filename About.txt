@@ -1,2 +1,8 @@
-Formulaic and all its assets are the property of Awais Javed.
-They may not be copied of distributed without prior approval from the owner.
+Formulaic is an advanced calculator originally written to put into test my Java knowledge.
+It was later expanded to include other features, such as drawing graphs.
+Any distribution or modification of Formulaic or it's versions may be done after my explicit approval.
+
+Awais Javed
+RajAwJ@proton.me
+
+Formulaic v.2.0

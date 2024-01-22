@@ -18,7 +18,7 @@ Using Formulaic
 Using Calculation History
 --------------------------
 
-	Calculation history keeps track of all of the calculations that Formulaic perfroms in a session and is available at all times. You cannot change the values in the calculations in your history. But you can copy the calculations to a text screen or file.
+	Calculation history keeps track of all the calculations that Formulaic performs in a session and is available at all times. You cannot change the values in the calculations in your history. But you can copy the calculations to a text screen or file.
 
     	Click the View menu in the menu bar, and then click History.
 
